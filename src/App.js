@@ -21,7 +21,7 @@ import ForgottenPassword from "./screens/ForgottenPassword/ForgottenPaassword";
 import AboutUs from "./screens/AboutUs/AboutUs";
 import ShoppingCart from "./screens/ShoppingCart/ShoppingCart";
 import VerifyRegistration from "./screens/Signup/VerifySignup";
-import Checkout from "./screens/Checkout/Checkout";
+// import Checkout from "./screens/Checkout/Checkout";
 import {
   IsAuthenticated,
   ProtectCustomerRoute,
@@ -39,10 +39,10 @@ import Checkout2 from "./screens/Checkout2/Checkout2";
 import CheckMail from "./screens/Signup/CheckMail";
 import PickupTableView from "./Admin/components/PickupCenter/PickupTableView";
 import StatesTableView from "./Admin/components/States/StatesTableView";
-import Dashboard from "./Admin/components/Dashboard/Dashboard";
+// import Dashboard from "./Admin/components/Dashboard/Dashboard";
 import SubcategoryTableView from "./Admin/components/Cat_SubCat/SubcategoryTableView";
 import Home from "./Admin/components/Dashboard/Home";
-import { useAuth } from "./context/authcontext";
+// import { useAuth } from "./context/authcontext";
 
 function App() {
   return (
